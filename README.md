@@ -8,10 +8,10 @@ Steps for running the project:
 
 
 
-1.Open the Command Prompt and go to the project directory.Run the following commands.
+ Open the Command Prompt and go to the project directory.Run the following commands.
 
-2. npm install
+1. npm install
 
-3. node app.js
+2. node app.js
 
-4. Go to the link that comes ( http://127.0.0.1:3000/)
+3. Go to the link that comes ( http://127.0.0.1:3000/)
